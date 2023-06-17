@@ -8,4 +8,5 @@
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Поиск похожих книг| [librarian-ai](https://www.librarian-ai.com/) |
 
