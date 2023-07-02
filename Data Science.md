@@ -5,7 +5,7 @@
 | Открытые данные | [Datasets](https://github.com/abnegantes/open-russian-data) |
 | Проще читать статьи | https://arxivxplorer.com/ |
 | Конспект  | [Standford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning#introduction) |
-| Презентации| [Click](https://gamma.app/docs/Discovering-E-Coli-6895jvnsokq29oi) |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Поиск похожих книг| [librarian-ai](https://www.librarian-ai.com/) |
+| ChatGpt из консоли| [heygpt](https://github.com/fuyufjh/heygpt) |
+| Текст в звук| [bark](https://github.com/suno-ai/bark)|
 
