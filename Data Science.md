@@ -8,4 +8,5 @@
 | Поиск похожих книг| [librarian-ai](https://www.librarian-ai.com/) |
 | ChatGpt из консоли| [heygpt](https://github.com/fuyufjh/heygpt) |
 | Текст в звук| [bark](https://github.com/suno-ai/bark)|
+| Аннотированный код |[Реалиация моделей](https://nn.labml.ai/)|
 
