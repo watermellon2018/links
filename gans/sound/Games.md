@@ -6,4 +6,5 @@
 |bark|[Текст в звук](https://github.com/suno-ai/bark)|
 |Генерация музыки по описанию|[GitHub](https://github.com/facebookresearch/audiocraft)|
 |Генерация музыки и звуков|[Libs](https://github.com/facebookresearch/audiocraft/)|
+|Генерация музыки (качество хорошее)|[Сервис](https://app.suno.ai/)|
 
