@@ -50,5 +50,5 @@
 |OutSystems||
 |Geobrain||
 |600 сайтов с работой|[Таблица](https://hellonewjob.org/tech-vacacny-sources)|
-
+|Web3|[Зарубежная](https://web3.career/)|
 
