@@ -8,3 +8,4 @@
 | Поиск похожих книг| [librarian-ai](https://www.librarian-ai.com/) |
 | Аннотированный код |[Реалиация моделей](https://nn.labml.ai/)|
 |Каталог моделей|[Много инструментов](https://www.futurepedia.io/)|
+|Объем памяти для модели|[Hugging Face](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)|
