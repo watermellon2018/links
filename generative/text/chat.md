@@ -9,3 +9,4 @@
 |AI-Tutor|[ChatGpt4 репетитор](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|
 |text-generation-inference|[Github](https://github.com/huggingface/text-generation-inference)|
 |Бот с эмпатией|[Демо. Можно поговорить о чем угодно](https://demo.hume.ai/)|
+|Поисковик|[deepseek](https://chat.deepseek.com/)|
