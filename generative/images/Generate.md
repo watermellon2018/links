@@ -1,7 +1,7 @@
 
 
-| Название | Ссылка | Описание |
-| ------ | ------ | ------ |
+| Название | Ссылка |
+| ------ | ------ |
 |wuerstchen|[Ускоренная SD](https://github.com/dome272/wuerstchen/)|
 |Stable Diffusion Webui|[code](https://github.com/AUTOMATIC1111/stable-diffusion-webui)|
 |Stable Diffusion|[code](https://github.com/CompVis/stable-diffusion)|
