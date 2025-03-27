@@ -11,3 +11,7 @@
 |Recraft|[web сервис](https://www.recraft.ai/project/7c5965f4-f2eb-4273-8c15-01311a77654c)|Генерирует изображения|
 |krea|[Можно редачить еще](https://www.krea.ai/apps/image/flux)|
 |Reve|[Неплой сервис](https://preview.reve.art/app)|
+|neural.love|[Стартам автора телеги](https://neural.love/)|
+|glif|[Мой любимый сервис](https://glif.app/glifs)|
+|Flux|[Хорошая модель](https://www.basedlabs.ai/signin)|
+|ideogram|[Хорошая модель](https://ideogram.ai/t/explore)|
