@@ -4,6 +4,9 @@
 | ------ | ------ |
 | Glassdoor | https://www.glassdoor.com |
 | Stackoverflow | https://stackoverflow.com/jobs |
+|Работа в стартапах в Лондоне|[portfolio.joinef](https://portfolio.joinef.com/jobs)|
+|Много средних европейских компаний|[welcometothejungle](https://uk.welcometothejungle.com/)|
+|Контракту на США|[justjoin](https://justjoin.it/)|
 | Weworkremotely | https://weworkremotely.com |
 | Indeed | https://indeed.com |
 | Ziprecruiter | https://www.ziprecruiter.com |
