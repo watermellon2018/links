@@ -2,6 +2,7 @@
 
 | Сайт | Ссылка |
 | ------ | ------ |
+|hirify|https://hirify.me/|
 | Glassdoor | https://www.glassdoor.com |
 | Stackoverflow | https://stackoverflow.com/jobs |
 |Работа в стартапах в Лондоне|[portfolio.joinef](https://portfolio.joinef.com/jobs)|
