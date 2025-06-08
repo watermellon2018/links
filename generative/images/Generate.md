@@ -11,5 +11,6 @@
 |neural.love|[Стартап автора телеги](https://neural.love/)|
 |glif|[Мой любимый сервис](https://glif.app/glifs)|
 |Flux|[Хорошая модель](https://www.basedlabs.ai/signin)|
+|Flux playground|[Хорошая генерация](https://playground.bfl.ai/image/generate)|
 |ideogram|[Хорошая модель](https://ideogram.ai/t/explore)|
 |flymy|[API к разным моделям + генерация в чате](https://app.flymy.ai/chat)|
