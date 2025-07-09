@@ -13,3 +13,4 @@
 |Китайская модель чат|[qwenlm](https://chat.qwenlm.ai/)|
 |Хорош для анализа больших текстов|[Hailuo](https://www.hailuo.ai/)|
 |Доступ к моделям на одном сервисе|[chat.together](https://chat.together.ai/)|
+|Норм агент чат|[kimi](https://www.kimi.com/)|
