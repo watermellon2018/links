@@ -7,3 +7,4 @@
 | Конспект  | [Standford](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning#introduction) |
 | Аннотированный код |[Реалиация моделей](https://nn.labml.ai/)|
 |Объем памяти для модели|[Hugging Face](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)|
+|Инструмент для быстрой разметки|[aisheets](https://github.com/huggingface/aisheets)|
