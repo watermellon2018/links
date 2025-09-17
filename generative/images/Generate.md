@@ -15,3 +15,4 @@
 |ideogram|[Хорошая модель](https://ideogram.ai/t/explore)|
 |flymy|[API к разным моделям + генерация в чате](https://app.flymy.ai/chat)|
 |comfyuiweb|[Сервис с разными моделями](https://comfyuiweb.com/ru)|
+|seedream-4|[рисование + редактирование](https://seedream-4.ai/ai-image/seedream-4)|
