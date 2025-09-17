@@ -14,3 +14,4 @@
 |Flux playground|[Хорошая генерация](https://playground.bfl.ai/image/generate)|
 |ideogram|[Хорошая модель](https://ideogram.ai/t/explore)|
 |flymy|[API к разным моделям + генерация в чате](https://app.flymy.ai/chat)|
+|comfyuiweb|[Сервис с разными моделями](https://comfyuiweb.com/ru)|
