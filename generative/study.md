@@ -4,3 +4,4 @@
 |alphaxiv|[помогает изучать статьи](https://www.alphaxiv.org/explore)|через @ можно в своем вопросе сослаться на другую статью (подгрузится к контекст)|
 |notebooklm|[Анализ статей](https://notebooklm.google.com/)|
 |anara|[Для анализа источников](https://anara.com/new)|Инструмент для работы с текстами, данными и научной инфой.|
+|youlearn|[конкурент Notebooklm](https://www.youlearn.ai/)|Сервис превращает любой материал в учебный|
