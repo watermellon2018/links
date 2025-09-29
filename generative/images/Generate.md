@@ -16,3 +16,4 @@
 |flymy|[API к разным моделям + генерация в чате](https://app.flymy.ai/chat)|
 |comfyuiweb|[Сервис с разными моделями](https://comfyuiweb.com/ru)|
 |seedream-4|[рисование + редактирование](https://seedream-4.ai/ai-image/seedream-4)|
+|HiDream-I1 (хорошая)|[HugginFace демо](https://huggingface.co/spaces/HiDream-ai/HiDream-I1-Dev) and [Платформа](https://vivago.ai/studio)|
