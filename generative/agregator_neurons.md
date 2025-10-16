@@ -5,3 +5,4 @@
 |Krea|[krea](https://www.krea.ai/app)| апскейл, редактирование, обучение флюкса|
 |phygital|[phygital](https://app.phygital.plus/)|удобно строить пайпланы для команд, а так же есть возможность грузить сторонние лоры для флюкса |
 |higgsfield|[higgsfield](https://higgsfield.ai/)|часто бывают безлимитные недели на видео-модели, моделька Soul (залореный флюкс/ван) — отличная для реализма|
+|aistudio|[aistudio](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview)|Там есть чат, картинки и тд. Полноценная платформа|
