@@ -6,3 +6,4 @@
 |Можно создавать фильмы|[skyreels](https://www.skyreels.ai/home)|
 |Авторегрессионная модель|[magi.sand](https://magi.sand.ai/app/projects)|
 |Легковесная модель|[FramePack](https://github.com/lllyasviel/FramePack)|
+|Модель от Qwen|[Wan](https://wan.video/)|
