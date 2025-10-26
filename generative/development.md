@@ -4,3 +4,4 @@
 |Сделать прототип продукта фронт|[replit](https://replit.com/)|
 |Фулстек прототип продукта|[Lovable](https://lovable.dev/)|
 |Создает фрон по ссылке на сайт + можно запрос|[Same.new](https://same.new/)|
+|Создает проект по описанию|[poehali](https://poehali.dev/)|
