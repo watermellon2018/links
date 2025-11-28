@@ -11,3 +11,5 @@
 |Хорош для анализа больших текстов|[Hailuo](https://www.hailuo.ai/)|
 |Доступ к моделям на одном сервисе|[chat.together](https://chat.together.ai/)|
 |Норм агент чат|[kimi](https://www.kimi.com/)|
+|Локальный чат гпт на cpu|[llama-server -hf ggml-org/gpt-oss-20b-GGUF --jinja   --host 127.0.0.1 --port 8033   --n-gpu-layers 0   --flash-attn off](https://github.com/ggml-org/llama.cpp/discussions/16938)|
+
