@@ -6,3 +6,4 @@
 | Текст в звук| Текст в звук| [bark](https://github.com/suno-ai/bark)|
 |Whisper|Транслэйт звука|[Git для локального запуска](https://github.com/openai/whisper)|
 |hailuo|Текст в звук|[И Клонирование голоса](https://www.hailuo.ai/audio)|
+|maya1|Генерация по промту|[Локально запускается на 6 гб](https://huggingface.co/maya-research/maya1)|
