@@ -3,6 +3,7 @@
 | Сайт | Ссылка |
 | ------ | ------ |
 |hirify|[Хороший сайт](https://hirify.me/)|
+|hire.monster|[Тоже хороший сайт](https://hire.monster/)|
 | Glassdoor | https://www.glassdoor.com |
 | Stackoverflow | https://stackoverflow.com/jobs |
 |Работа в стартапах в Лондоне|[portfolio.joinef](https://portfolio.joinef.com/jobs)|
