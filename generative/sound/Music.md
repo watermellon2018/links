@@ -1,4 +1,3 @@
-E
 
 | Название | README |
 | ------ | ------ |
@@ -8,4 +7,5 @@ E
 |Генерация музыки (качество хорошее)|[Suno](https://app.suno.ai/)|
 |Генераця музыки|[Riffusion](https://www.riffusion.com/)|
 |Платформа для всего (звуки)|[Elevenlabs](https://elevenlabs.io/)|
+|Генерация музыки|[Встроенно в Gimini](https://deepmind.google/models/lyria/)|
 
