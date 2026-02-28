@@ -6,3 +6,4 @@
 |Создает фрон по ссылке на сайт + можно запрос|[Same.new](https://same.new/)|
 |Создает проект по описанию|[poehali](https://poehali.dev/)|
 |По ссылке на гит создаст доку|[codewiki](https://codewiki.google/)|
+|По ссылке на гит создаст доку|[superdocs](https://www.superdocs.cloud/)|
