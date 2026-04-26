@@ -8,4 +8,4 @@
 |Легковесная модель|[FramePack](https://github.com/lllyasviel/FramePack)|
 |Модель от Qwen|[Wan](https://wan.video/)|
 |Seedance|[Studio](https://www.byteplus.com/en/ai-playground/media?mode=vision&tab=GenVideo&modelId=seedance-1-5-pro-251215)|
-
+|runwayml|[Аватары + видео](https://dev.runwayml.com/organization/796b4cf7-0f1a-4c34-bd5c-7a5aecc964a1/characters)|
