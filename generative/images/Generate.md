@@ -17,4 +17,4 @@
 |comfyuiweb|[Сервис с разными моделями](https://comfyuiweb.com/ru)|
 |seedream-4|[рисование + редактирование](https://seedream-4.ai/ai-image/seedream-4)|
 |HiDream-I1 (хорошая)|[HugginFace демо](https://huggingface.co/spaces/HiDream-ai/HiDream-I1-Dev) and [Платформа](https://vivago.ai/studio)|
-|reve|[генерация на холсте картинок](https://app.reve.com/home)|
+|reve|[Иерархическая модель, можно менять части](https://app.reve.com/home)|
